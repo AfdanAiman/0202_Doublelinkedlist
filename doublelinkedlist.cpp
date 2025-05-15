@@ -24,7 +24,7 @@ public:
     void addNode()
     {
         int nim;
-        string nim;
+        string nm;
         cout << "\nEnter the roll number of the student : ";
         cin >> nim;
 
